@@ -5,3 +5,4 @@ console.log("subire este cambio mientras tengo la rama main en stash")
 console.log("subeme con stash")
 //aca se supone que trabaje el index2 y luego voy a subir estos cambios pero antes del push hago un pull con --rebase
 //cambio con rebase commit 1
+//cambio con rebase commit 2
